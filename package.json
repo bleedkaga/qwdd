@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@antv/g2": "^3.3.4",
     "umi": "^2.2.6",
     "umi-plugin-react": "^1.2.3"
   }
